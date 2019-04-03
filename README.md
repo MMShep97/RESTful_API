@@ -4,3 +4,5 @@ Creation of a REST API
 
 Instructions:
   - npm run start
+  
+  NOT COMPLETE
